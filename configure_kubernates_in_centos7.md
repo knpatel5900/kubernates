@@ -2,7 +2,8 @@
 
 # Video 
 
-https://youtu.be/evcOhLvoPdI
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/evcOhLvoPdI)
+
 
 ## Step 1: Configure Kubernetes Repository
 
