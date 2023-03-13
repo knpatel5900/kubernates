@@ -4,7 +4,7 @@
 
 Kubernetes packages are not available from official CentOS 7 repositories. This step needs to be performed on the Master Node, and each Worker Node you plan on utilizing for your container setup. Enter the following command to retrieve the Kubernetes repositories.
 
-    cat &lt;&lt;EOF &gt; /etc/yum.repos.d/kubernetes.repo
+    cat <<EOF >; /etc/yum.repos.d/kubernetes.repo
     [kubernetes]
     name=Kubernetes
     baseurl=https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
