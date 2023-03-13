@@ -1,5 +1,9 @@
 # Steps for Installing Kubernetes on CentOS 7
 
+# Video 
+
+https://youtu.be/evcOhLvoPdI
+
 ## Step 1: Configure Kubernetes Repository
 
 Kubernetes packages are not available from official CentOS 7 repositories. This step needs to be performed on the Master Node, and each Worker Node you plan on utilizing for your container setup. Enter the following command to retrieve the Kubernetes repositories.
